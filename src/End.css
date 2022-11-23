@@ -1,0 +1,28 @@
+.end{
+    border: 2px solid red;
+    display: flex;
+    width: 60%;
+    margin: auto;
+    margin-top: 30px;
+    justify-content: space-between;
+    padding: 0 20px;
+    border-radius: 10px;
+}
+.amt{
+    display: flex;
+    padding: 0 10px;
+    justify-content: space-between;
+}
+.right>button{
+    background: #000;;
+    color: white;
+    font-size: 18px;
+    border-radius: 10px;
+    padding: 10px 8px;
+
+}
+.right>button:hover{
+    cursor: pointer;
+    color: black;
+    background: white;
+}

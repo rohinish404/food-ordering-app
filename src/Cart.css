@@ -1,0 +1,24 @@
+.cart_full{
+    border: 2px solid red;
+    display: block;
+    width: 20%;
+    margin-left: 1100px;
+}
+.cart{
+    border-bottom: 2px solid black;
+}
+.negative{
+    padding:5px 15px;
+    font-size: 20px;
+    margin: 0 20px;
+    background: #000;
+    color: white;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+.negative:hover{
+    cursor: pointer;
+}
+.cart>span{
+    font-size: 20px;
+}
